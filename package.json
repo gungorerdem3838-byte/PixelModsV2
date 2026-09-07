@@ -1,0 +1,10 @@
+{
+  "name": "modrock",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/kv": "latest",
+    "@vercel/blob": "latest"
+  }
+}
